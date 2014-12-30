@@ -13,6 +13,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/legomenu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
                 "file": "images/legobg.png",
                 "name": "IMAGE_BG",
                 "type": "png"
@@ -21,12 +27,6 @@
                 "file": "fonts/Qubix.ttf",
                 "name": "FONT_CUSTOM_20",
                 "type": "font"
-            },
-            {
-                "file": "images/DIGDS-MENU.png",
-                "menuIcon": true,
-                "name": "IMAGE_MENU_ICON",
-                "type": "png"
             },
             {
                 "file": "images/icon_bluetooth_ANALOG.png",
